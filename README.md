@@ -1,8 +1,8 @@
 # Pyviz_Dashboard #
 
-# Hello #
+## Overview
 
-Welcome to my custom dashboard built using holoviews, plotly express, and panels libraries. The dashboard tracks real estate prices in Toronto from 2001 - 2016. As you can see through the graphs, real estate prices in the popular Toronto region have gone only in one direction in the selected time period ...
+Welcome to my custom dashboard built using holoviews, plotly express, and the panels libraries. The dashboard tracks real estate prices in Toronto from 2001 - 2016. As you can see through the graphs, real estate prices in the popular Toronto region have gone only in one direction in the selected time period ...
 
 With that being said, it is still interesting to look at real estate prices on a more granular level. While a rising tide lift all ships, it appears to have been particularly kind to the Top Ten most expensive neighbourhoods.
 
